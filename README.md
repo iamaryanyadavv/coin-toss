@@ -1,4 +1,4 @@
-# coin-toss
+# Coin Toss
 Simulating a coin toss using Bit Commitment and Coin Flipping Procotol.
 
 This is a set of programs written to simulate a coin-toss.
